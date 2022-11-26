@@ -1,0 +1,15 @@
+C:\GitHubRepo\CSharp_Projects\Hello_World\Hello_World\bin\Debug\net7.0\Hello_World.exe
+C:\GitHubRepo\CSharp_Projects\Hello_World\Hello_World\bin\Debug\net7.0\Hello_World.deps.json
+C:\GitHubRepo\CSharp_Projects\Hello_World\Hello_World\bin\Debug\net7.0\Hello_World.runtimeconfig.json
+C:\GitHubRepo\CSharp_Projects\Hello_World\Hello_World\bin\Debug\net7.0\Hello_World.dll
+C:\GitHubRepo\CSharp_Projects\Hello_World\Hello_World\bin\Debug\net7.0\Hello_World.pdb
+C:\GitHubRepo\CSharp_Projects\Hello_World\Hello_World\obj\Debug\net7.0\Hello_World.csproj.AssemblyReference.cache
+C:\GitHubRepo\CSharp_Projects\Hello_World\Hello_World\obj\Debug\net7.0\Hello_World.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHubRepo\CSharp_Projects\Hello_World\Hello_World\obj\Debug\net7.0\Hello_World.AssemblyInfoInputs.cache
+C:\GitHubRepo\CSharp_Projects\Hello_World\Hello_World\obj\Debug\net7.0\Hello_World.AssemblyInfo.cs
+C:\GitHubRepo\CSharp_Projects\Hello_World\Hello_World\obj\Debug\net7.0\Hello_World.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\CSharp_Projects\Hello_World\Hello_World\obj\Debug\net7.0\Hello_World.dll
+C:\GitHubRepo\CSharp_Projects\Hello_World\Hello_World\obj\Debug\net7.0\refint\Hello_World.dll
+C:\GitHubRepo\CSharp_Projects\Hello_World\Hello_World\obj\Debug\net7.0\Hello_World.pdb
+C:\GitHubRepo\CSharp_Projects\Hello_World\Hello_World\obj\Debug\net7.0\Hello_World.genruntimeconfig.cache
+C:\GitHubRepo\CSharp_Projects\Hello_World\Hello_World\obj\Debug\net7.0\ref\Hello_World.dll
