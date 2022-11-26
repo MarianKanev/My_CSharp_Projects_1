@@ -6,7 +6,7 @@ using System;
 namespace CSharpExamples {
     class Program {
         static void Main(string[] args) {
-            for(int i=3;i<=7;i++) {
+            for(int i=4;i<=7;i++) {
                 Console.WriteLine(i);
             }
         }
