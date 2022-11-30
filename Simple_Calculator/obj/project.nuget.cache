@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y2Z0gVO82JSC956heJ2BEFSMSaFH/1J0zaf0Qhko5jL359cxioSFtRThLABNRGrLALYbruVauCE2TrtMfNfWAA==",
+  "dgSpecHash": "Nvu17Th9yst+U03baB5K8eyxdY5hQ3y8VgKogGpLH4iE2bzMrVkNKl9FWQ2lqtgIIpj26xXrcPeg5wwsSra2fA==",
   "success": true,
-  "projectFilePath": "C:\\GitHubRepo\\CSharp_Projects\\Hello_World\\Simple_Calculator\\Simple_Calculator.csproj",
+  "projectFilePath": "C:\\GitHubRepo\\CSharp_Projects\\Simple_Calculator\\Simple_Calculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

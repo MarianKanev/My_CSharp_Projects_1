@@ -1,0 +1,15 @@
+C:\GitHubRepo\CSharp_Projects\CircleSize\CircleSize\bin\Debug\net6.0\CircleSize.exe
+C:\GitHubRepo\CSharp_Projects\CircleSize\CircleSize\bin\Debug\net6.0\CircleSize.deps.json
+C:\GitHubRepo\CSharp_Projects\CircleSize\CircleSize\bin\Debug\net6.0\CircleSize.runtimeconfig.json
+C:\GitHubRepo\CSharp_Projects\CircleSize\CircleSize\bin\Debug\net6.0\CircleSize.dll
+C:\GitHubRepo\CSharp_Projects\CircleSize\CircleSize\bin\Debug\net6.0\CircleSize.pdb
+C:\GitHubRepo\CSharp_Projects\CircleSize\CircleSize\obj\Debug\net6.0\CircleSize.csproj.AssemblyReference.cache
+C:\GitHubRepo\CSharp_Projects\CircleSize\CircleSize\obj\Debug\net6.0\CircleSize.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHubRepo\CSharp_Projects\CircleSize\CircleSize\obj\Debug\net6.0\CircleSize.AssemblyInfoInputs.cache
+C:\GitHubRepo\CSharp_Projects\CircleSize\CircleSize\obj\Debug\net6.0\CircleSize.AssemblyInfo.cs
+C:\GitHubRepo\CSharp_Projects\CircleSize\CircleSize\obj\Debug\net6.0\CircleSize.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\CSharp_Projects\CircleSize\CircleSize\obj\Debug\net6.0\CircleSize.dll
+C:\GitHubRepo\CSharp_Projects\CircleSize\CircleSize\obj\Debug\net6.0\refint\CircleSize.dll
+C:\GitHubRepo\CSharp_Projects\CircleSize\CircleSize\obj\Debug\net6.0\CircleSize.pdb
+C:\GitHubRepo\CSharp_Projects\CircleSize\CircleSize\obj\Debug\net6.0\CircleSize.genruntimeconfig.cache
+C:\GitHubRepo\CSharp_Projects\CircleSize\CircleSize\obj\Debug\net6.0\ref\CircleSize.dll
